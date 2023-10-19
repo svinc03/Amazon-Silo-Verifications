@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Amazon.com. Spend less. Smile more.",
+  "Type": "App",
+  "Id": "AntmWPTawE26JkzvOzReRg",
+  "Reference": "H02db5IAE022kn7Q0rhs1Q/AntmWPTawE26JkzvOzReRg",
+  "Created": "2023-10-06T06:30:44.4263804Z",
+  "Updated": "2023-10-06T06:30:44.4263804Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

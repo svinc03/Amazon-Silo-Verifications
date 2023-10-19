@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zd3LP75ZbU6dRWSBJPk0nw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/" CvTextArea="110, 186, 109, 22" CvTextArgument="Today's Deals" CvType="Text" DesignTimeRectangle="101, 179, 129, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Today's Deals'" FullSelectorArgument="&lt;webctrl parentid='nav-xshop' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='nav-xshop' tag='A' type='' class='nav-a  ' aaname='Today&amp;apos;s Deals' check:innerText='Today&amp;apos;s Deals' /&gt;" Guid="374aa8eb-8e59-4687-9594-335903dda020" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.com. Spend less. Smile more.' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6bfb64c033da35e1e4f96680bb77e6a1.png" xmlns="">0N064Yj28MEuy8lLpfbtdhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

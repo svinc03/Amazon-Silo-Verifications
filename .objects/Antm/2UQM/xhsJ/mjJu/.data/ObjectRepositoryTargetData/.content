@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x3tLYhUwOUGg9uHl3PjVsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/gp/yourstore/home?ref_=nav_cs_ys" CvElementArea="490, 173, 186, 50" CvTextArea="499, 188, 165, 20" CvTextArgument="Vincy's Amazon.com" CvType="Button" DesignTimeRectangle="503, 189, 161, 14" DesignTimeScaleFactor="1.25" FriendlyName="'Vincy's Amazon.com'" FullSelectorArgument="&lt;webctrl id='nav-your-amazon-text' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='nav-your-amazon-text' tag='SPAN' type='' class='' aaname='&amp;apos;s Amazon.com' check:innerText='Vincy&amp;apos;s Amazon.com' /&gt;" Guid="e58388ab-5a98-44d6-b585-cf9ec93279ba" ScopeSelectorArgument="&lt;html app='msedge.exe' title='amazon.com/gp/yourstore/home?ref_=nav_cs_ys' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ab6b110d8834072693c98063dcf4cda3.png" xmlns="">0IiE-V5S1FUOPGtWFjCaKrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mz9DyfIe50WLnNs_9T1efg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/gp/yourstore/home?ref_=nav_cs_ys" CvTextArea="785, 186, 32, 18" CvTextArgument="Sell" CvType="Text" DesignTimeRectangle="776, 179, 52, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Sell'" FullSelectorArgument="&lt;webctrl aaname='Sell' parentid='nav-xshop' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sell' parentid='nav-xshop' tag='A' type='' class='nav-a  ' check:innerText='Sell' /&gt;" Guid="2d8002b4-695e-4451-ab85-04d92e2b9616" ScopeSelectorArgument="&lt;html app='msedge.exe' title='amazon.com/gp/yourstore/home?ref_=nav_cs_ys' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5acb7844689cd4f39d9c6175f73f8574.png" xmlns="">0bIE_XJsKoUePRtth9c1dkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

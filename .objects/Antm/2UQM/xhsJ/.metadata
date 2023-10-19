@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge: Amazon.com. Spend less. Smile more.",
+  "Type": "Screen",
+  "Id": "xhsJckjgmkmdJ4QD4uUgPQ",
+  "Reference": "H02db5IAE022kn7Q0rhs1Q/xhsJckjgmkmdJ4QD4uUgPQ",
+  "ParentRef": "H02db5IAE022kn7Q0rhs1Q/2UQMBzCGSkCIevEuId4bAg",
+  "Created": "2023-10-06T06:30:44.506561Z",
+  "Updated": "2023-10-06T06:30:44.506561Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j4X5lWMo90iIfW2IREQjFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/gp/yourstore/home?ref_=nav_cs_ys" CvTextArea="684, 186, 82, 18" CvTextArgument="Gift Cards" CvType="Text" DesignTimeRectangle="675, 179, 101, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Gift Cards'" FullSelectorArgument="&lt;webctrl aaname='Gift Cards' parentid='nav-xshop' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Gift Cards' parentid='nav-xshop' tag='A' type='' class='nav-a  ' check:innerText='Gift Cards' /&gt;" Guid="b23bf5e8-2719-4af6-b529-c90071783b41" ScopeSelectorArgument="&lt;html app='msedge.exe' title='amazon.com/gp/yourstore/home?ref_=nav_cs_ys' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d5f78c5bf90a013e34555ef86243addf.png" xmlns="">0le1eegzcVkihtHkb_6bjHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

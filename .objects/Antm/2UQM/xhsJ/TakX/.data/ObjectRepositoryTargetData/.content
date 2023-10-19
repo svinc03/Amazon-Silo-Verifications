@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uAtr4J_USE2qvQ8Mr7bQsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/b/?_encoding=UTF8&amp;node=21439846011&amp;pd_rd_w=5p8WL&amp;content-id=amzn1.sym.aaf55719-b998-4f6e-9f18-19d8fa18000b&amp;pf_rd_p=aaf55719-b998-4f6e-9f18-19d8fa18000b&amp;pf_rd_r=MA021QSF0WHSR6AVC6Q5&amp;pd_rd_wg=GUFkx&amp;pd_rd_r=0c4401f2-6c69-4f94-9ccc-1a8b0111d09d" CvTextArea="341, 187, 140, 16" CvTextArgument="Customer Service" CvType="Text" DesignTimeRectangle="331, 179, 160, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Customer Service'" FullSelectorArgument="&lt;webctrl aaname='Customer Service' parentid='nav-xshop' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Customer Service' parentid='nav-xshop' tag='A' type='' class='nav-a  ' check:innerText='Customer Service' /&gt;" Guid="73c3067f-d86d-4a7b-9506-cb93b728f9bf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.com: All Departments' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="431bce877f7dadc57f27e9110fe363e4.png" xmlns="">0Z8e8-UdbU0WRQvuOTACKnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

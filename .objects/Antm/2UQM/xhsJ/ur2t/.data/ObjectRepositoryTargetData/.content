@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0ujyfe37h0yD8wf5HJp8SA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/" DesignTimeRectangle="60, 190, 29, 15" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'All'" FullSelectorArgument="&lt;webctrl parentid='nav-hamburger-menu' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='nav-hamburger-menu' tag='SPAN' type='' class='hm-icon-label' aaname='All' check:innerText='All' /&gt;" Guid="3a909c7d-aa80-47ad-80cb-c7b51be7a4ad" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.com. Spend less. Smile more.' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a60e91a63e1d25eef37551a49fa19cfb.png" xmlns="">0Vi9dh4QaUk-bCccGB_s_OQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
